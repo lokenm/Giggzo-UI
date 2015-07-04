@@ -1,2 +1,2 @@
 # Giggzo-UI
-UI design artifactsa
+UI design artifacts.
